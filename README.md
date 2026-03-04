@@ -1,15 +1,15 @@
 # TCMap forked by usagi
 
 This Rust/Carbon plugin displays Tool Cupboard (TC) locations on a map and allows you to see authorized player names when hovering over them.
-This repository is a maintained fork of [**TC Map Markers** v1.0.1 by TheBandolero(Wolfleader101)](https://umod.org/plugins/tcmap).
+This repository is a maintained fork of [**TCMap** v1.0.1 by TheBandolero(Wolfleader101)](https://umod.org/plugins/tcmap).
 
 ![preview](https://i.imgur.com/PfjdfQp.png)
 
 ## Credits
 
-- Original plugin: **TC Map Markers**
-- Original author: **TheBandolero**
-- Original resource: https://umod.org/plugins/tc-map-markers
+- Original plugin: **TCMap**
+- Original author: **TheBandolero(Wolfleader101)**
+- Original resource: https://umod.org/plugins/tcmap
 - This fork maintainer: **usagi**
 
 ## What this fork changes
@@ -99,4 +99,4 @@ See the header section of the source code.
 
 ### Original Author
 
-- [**TC Map Markers** v1.1.2 by TheBandolero(Wolfleader101)](https://umod.org/plugins/tcmap).
+- [**TCMap** v1.1.2 by TheBandolero(Wolfleader101)](https://umod.org/plugins/tcmap).
