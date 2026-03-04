@@ -1,4 +1,4 @@
-﻿
+
 using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json;
@@ -9,19 +9,19 @@ namespace Oxide.Plugins
 {
  /*
   * Fork Notice:
-  * - Original plugin: "TC Map Markers" by TheBandolero
-  * - Original resource: https://umod.org/plugins/tc-map-markers (v1.1.2/MIT License)
+  * - Original plugin: "TC Map Markers" by TheBandolero(Wolfleader101)
+  * - Original resource: https://umod.org/plugins/tcmap (v1.0.1/MIT License)
   *
   * This fork is maintained by usagi and includes compatibility fixes and
   * configuration improvements for modern Carbon/uMod environments.
-  * == 1.2.0 # 2026-03-05 ==
+  * == 2.0.0 # 2026-03-05 ==
   * - Updated for compatibility with latest Rust and uMod versions
   * - Added configuration options for marker appearance and visibility
   * - Addded compatibility check for Raidable Bases plugin to optionally exclude its cupboards
   * - Code refactoring and cleanup for maintainability
   */
 
- [Info("TCMap", "usagi (original: TheBandolero)", "1.2.0", ResourceId = 0)]
+ [Info("TCMap", "usagi (original: TheBandolero)", "2.0.0", ResourceId = 0)]
  [Description("Fork of TC Map Markers. Shows tool cupboards on the map and displays authorized player names in the tooltip.")]
  public class TCMap : RustPlugin
  {
