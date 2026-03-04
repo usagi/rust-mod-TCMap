@@ -17,11 +17,11 @@ This repository is a maintained fork of [**TC Map Markers** v1.0.1 by TheBandole
 - Compatibility with the latest Rust/Carbon/uMod environments
 - Support for the `authorizedPlayers` type change (`ulong`)
 - Marker appearance can be adjusted in the configuration file
-- Radius
-- Transparency
--Color (hex)
+  - Radius
+  - Transparency
+  - Color (hex)
 - Added an option to exclude TCs from Raidable Bases
--Code cleanup and refactoring
+- Code cleanup and refactoring
 
 ## Features
 
@@ -51,7 +51,7 @@ Display markers for administrators / Use the `tcmap` chat command
 
 Example:
 
--`c.grant group admin tcmap.admin`
+- `c.grant group admin tcmap.admin`
 
 ## Commands
 
