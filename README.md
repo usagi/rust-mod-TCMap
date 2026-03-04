@@ -97,6 +97,6 @@ See the header section of the source code.
 
 - [usagi](https://usagi.network/)
 
-### Original AUthor
+### Original Author
 
 - [**TC Map Markers** v1.1.2 by TheBandolero](https://umod.org/plugins/tc-map-markers).
